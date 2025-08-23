@@ -23,7 +23,7 @@
 
 ### ⚡ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,html,css,js,vscode,idea,figma" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,github,html,css,vscode,idea" />
 </p>
 
 ---
@@ -39,13 +39,6 @@
 ### 🏆 GitHub Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gajera-Ansh&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Gajera-Ansh/Gajera-Ansh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
