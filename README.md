@@ -1,71 +1,79 @@
-<h1 align="center">Hi 👋, I'm Ansh Gajera</h1>
-<h3 align="center">Passionate Java Developer | DBMS Enthusiast | Problem Solver</h3>
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Welcome Banner" />
+</p>
+
+<h1 align="center">Hey 👋, I'm <span style="color:#36BCF7">Ansh Gajera</span></h1>
+<h3 align="center">💻 Java Developer | 📊 DBMS Enthusiast | 🚀 Always Exploring New Tech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Developer;Full+Stack+Learner;Data+Structures+%26+Algorithms;Database+Management+System;Building+Airline+Reservation+System;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Java+Developer;DBMS+Explorer;Problem+Solver;Building+Cool+Projects;Open+Source+Enthusiast" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Java + DBMS Projects**  
-- 🌱 I’m learning **Spring Boot, JDBC, Collections, Multithreading**  
-- 💡 Interested in **Software Development, Problem Solving, and System Design**  
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/ansh-gajera-4646b9354/)**  
-- 🌐 Explore my projects on **[GitHub](https://github.com/Gajera-Ansh)**  
+### 🌟 About Me  
+- 🔭 Currently working on: **Java + DBMS projects (Airline Reservation System)**  
+- 🌱 Exploring: **Spring Boot | Collections | JDBC | Multithreading**  
+- 🤝 Love to collaborate on **Software Development Projects**  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ansh-gajera-4646b9354/)  
+- ⚡ Fun fact: *I debug more than I code 😅*  
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,html,css,js,vscode,idea,figma" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gajera-Ansh&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gajera-Ansh&theme=radical" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gajera-Ansh&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gajera-Ansh&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gajera-Ansh&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gajera-Ansh&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gajera-Ansh&theme=react-dark" />
+  <img src="https://github.com/Gajera-Ansh/Gajera-Ansh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-### 🌟 Fun Quote
+### 🎯 Fun Quote  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-### ✨ Connect with Me
+### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/ansh-gajera-4646b9354/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Gajera-Ansh">
-    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
+  <a href="https://www.linkedin.com/in/ansh-gajera-4646b9354/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/Gajera-Ansh"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">👀 Profile Visitors</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gajera-Ansh&label=Visitors&color=blue&style=flat-square" />
 </p>
 
 ---
 
 <div align="center">
   
-⭐️ From [Ansh Gajera](https://github.com/Gajera-Ansh)  
+✨ Built with ❤️ by [Ansh Gajera](https://github.com/Gajera-Ansh)  
 
 </div>
