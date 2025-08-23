@@ -1,8 +1,3 @@
-<!-- Banner / Header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidWc3a2w1NXR1M3ludGRoZDVyaG0xZjFqYnl0Z2UzMXY1YzdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGcNjsfWAjY5AEZNw6/giphy.gif" width="800" alt="Coding Animation" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Ansh Gajera</h1>
 <h3 align="center">Passionate Java Developer | DBMS Enthusiast | Problem Solver</h3>
 
