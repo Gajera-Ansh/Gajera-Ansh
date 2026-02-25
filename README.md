@@ -13,8 +13,7 @@
 ---
 
 ### 🌟 About Me  
-- 🔭 Currently working on: **Java + DBMS projects (Airline Reservation System)**  
-- 🌱 Exploring: **Spring Boot | Collections | JDBC | Multithreading**  
+- 🔭 Currently working on: **Currently studying in sem-4**
 - 🤝 Love to collaborate on **Software Development Projects**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ansh-gajera-4646b9354/)  
 - ⚡ Fun fact: *I debug more than I code 😅*  
