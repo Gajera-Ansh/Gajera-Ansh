@@ -13,10 +13,18 @@
 ---
 
 ### 🌟 About Me  
-- 🔭 Currently working on: **Currently studying in sem-4**
+- 🔭 Currently working on: **Semester 4 studies + personal coding projects**
 - 🤝 Love to collaborate on **Software Development Projects**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ansh-gajera-4646b9354/)  
 - ⚡ Fun fact: *I debug more than I code 😅*  
+
+---
+
+### 🗂️ My Repositories & Organizations  
+<p align="center">
+  <a href="https://github.com/Gajera-Ansh?tab=repositories"><img src="https://img.shields.io/badge/My%20Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Gajera-Ansh?tab=organizations"><img src="https://img.shields.io/badge/My%20Organizations-View-6f42c1?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
